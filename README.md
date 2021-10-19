@@ -1,6 +1,7 @@
 # Hi 👋 nice to meet you.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=85b3e1&link=https://www.linkedin.com/in/mrsagar105/)](https://www.linkedin.com/in/mrsagar105/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=Stack-Overflow&logoColor=fac092&link=https://stackoverflow.com/users/15160381/mrsagar105)](https://stackoverflow.com/users/15160381/mrsagar105)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=808080&link=https://medium.com/@mrsagar105)](https://medium.com/@mrsagar105)
 [![99designs Badge](https://img.shields.io/badge/-99designs-ff7e65?style=flat&logo=99&logoColor=ffbfb2&link=https://99designs.com/profiles/mrsagar105)](https://99designs.com/profiles/mrsagar105)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=e6aece&link=https://instagram.com/mrsagar105/)](https://instagram.com/mrsagar105)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d93025?style=flat&logo=Gmail&logoColor=ec9892&link=mailto:mrsagar105@gmail.com)](mailto:mrsagar105@gmail.com)
