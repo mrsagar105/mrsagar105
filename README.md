@@ -12,7 +12,7 @@ You can go through my 99Designs' portfolio here:<br>
 https://99designs.com/profiles/mrsagar105
 ___
 I have always wanted to become a web developer. So I am currently learning MERN stack.<br>
-Frontend is where I enjoy the most 😌. Feel free to check out my React Projects.
+Frontend is where I enjoy the most 😌. Feel free to check out my React projects.
 ___
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsagar105&show_icons=true&title_color=000000&icon_color=f9c027)
