@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=e6aece&link=https://instagram.com/mrsagar105/)](https://instagram.com/mrsagar105)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d93025?style=flat&logo=Gmail&logoColor=ec9892&link=mailto:mrsagar105@gmail.com)](mailto:mrsagar105@gmail.com)
 
-I am Sagar. I completed my bachelors in Computer Science.<br>
+I'm Sagar. I completed my bachelors in Computer Science.<br>
 During my studies, I was a 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗪𝗲𝗯 𝗣𝗮𝗴𝗲 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 at 99Designs where I participated in over 40 design contests.<br>
 You can go through my 99Designs' portfolio here:<br>
 https://99designs.com/profiles/mrsagar105
