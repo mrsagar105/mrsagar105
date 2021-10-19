@@ -14,7 +14,7 @@ I have always wanted to become a web developer. So I am currently learning MERN 
 Frontend is where I enjoy the most 😌. Feel free to check out my React Projects.
 ___
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsagar105&show_icons=true&title_color=f9c027&icon_color=f9c027)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsagar105&show_icons=true&title_color=000000&icon_color=f9c027)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsagar105&theme=graywhite&ring=f9c027" alt="mrsagar105" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsagar105&show_icons=true&locale=en&layout=compact" alt="mrsagar105" /></p>
